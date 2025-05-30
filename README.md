@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishat Ayub</h1>
 <h3 align="center">🚀 Code-First, Design-Driven | Building Brains & Beautiful Interfaces Typing in TypeScript, Rusting in Go, Dreaming in AI 🤖 + Designing UIs 🎨</h3>
 
+
+<p>Hey there! I'm Nisha Tayub — a passionate full-stack developer and UI/UX enthusiast currently pursuing BTech CSE at LPU. I’m skilled in MERN, Python, C++, Java, and Figma, and I'm expanding my tech toolkit with TypeScript, Rust, Go, and Neural Networks. I love turning ideas into interactive, user-friendly products that are both smart and beautifully designed. Whether it’s building robust backends or designing sleek UIs, I thrive at the intersection of logic and creativity. I'm also deeply curious about AI and product design — and dreaming big with my sights set on innovation, impact, and an MBA from Harvard someday!
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishatayub" alt="nishatayub" /></a> </p>
 
 - 🔭 I’m currently working on [Code Unity](https://github.com/nishatayub/S65_Nishat_Capstone_CodeUnity)
