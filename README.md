@@ -1,37 +1,67 @@
-<h1 align="center">Hi 👋, I'm Nishat Ayub</h1>
-<h3 align="center">🚀 Code-First, Design-Driven | Building Brains & Beautiful Interfaces, Dreaming in AI 🤖 + Designing UIs 🎨</h3>
+<h1 align="center">Hi, I'm Nishat Ayub 👋</h1>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | AI Enthusiast</h3>
 
+---
 
-<p align="center">Hey there! I'm Nishat Ayub — a passionate full-stack developer and UI/UX enthusiast. I’m skilled in MERN, Python, C++, Java, and Figma, and I'm expanding my tech toolkit with TypeScript, Rust, Go, and Neural Networks. I love turning ideas into interactive, user-friendly products that are both smart and beautifully designed. Whether it’s building robust backends or designing sleek UIs, I thrive at the intersection of logic and creativity. I'm also deeply curious about AI and product design!
-</p>
+### 🧩 About Me
 
+I'm a full-stack developer with a strong foundation in computer science and a keen eye for design. With expertise in the **MERN stack**, **Python**, and **C++**, I build scalable, maintainable web applications with a focus on performance and user experience. I specialize in bridging the gap between logic and design to create thoughtful, intuitive interfaces.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishatayub" alt="nishatayub" /></a> </p>
+I'm currently expanding my technical toolkit with **TypeScript**, **Rust**, **Next.js**, and **Neural Networks**, and exploring ways to integrate AI into impactful user-facing products.
 
-- 🔭 I’m currently working on [Code Unity](https://github.com/nishatayub/S65_Nishat_Capstone_CodeUnity)
+---
 
-- 🌱 I’m currently learning **Rust, Nextjs, Flask, MySQL, Threejs**
+### 🔧 Tech Stack
 
-- 💬 Ask me about **React, Python, CPP, Figma(Software), MERN**
+**Languages & Frameworks:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-- 📫 How to reach me **nishatayub702@gmail.com**
+**Design & Tools:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-- ⚡ Fun fact **I consider Ctrl+Z my real-life superpower. If only it worked outside code editors! 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nishat-ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishatayub" height="30" width="40" /></a>
-<a href="https://instagram.com/@thenishatnetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thenishatnetwork" height="30" width="40" /></a>
-<a href="https://www.behance.net/@nishatayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="@nishatayub" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nishatayub90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="family_snow_26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@nishat90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@nishat90" height="30" width="40" /></a>
-</p>
+### 📌 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **Code Unity** – Live collaborative coding environment powered by WebSockets and AI ([Live](http://cuni.vercel.app) • [GitHub](https://github.com/kalviumcommunity/S65_Nishat_Capstone_CodeUnity))  
+- **ChattyBatty** – A modern, frontend-only chat UI with dynamic themes ([Live](https://chattybatty.vercel.app) • [GitHub](https://github.com/nishatayub/ChattyBatty))  
+- **Affirmo** – A mood-based compliment generator with email delivery ([Live](https://affirmo.vercel.app) • [GitHub](https://github.com/kalviumcommunity/S65_Compliment_Generator))
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishatayub&show_icons=true&locale=en&layout=compact" alt="nishatayub" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishatayub&show_icons=true&locale=en" alt="nishatayub" /></p>
+### 📚 Currently Exploring
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishatayub&" alt="nishatayub" /></p>
+- 🧠 Neural networks & AI-assisted development  
+- 🌐 Web performance and scalable frontend architecture  
+- 🔧 Rust, Go, and advanced TypeScript patterns
+
+---
+
+### 📫 Get in Touch
+
+- 📩 Email: [nishatayub702@gmail.com](mailto:nishatayub702@gmail.com)  
+- 🌐 Portfolio: [nishatayub.vercel.app](https://nishatayub.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/nishatayub](https://www.linkedin.com/in/nishat-ayub/)  
+- 🖌️ Behance: [behance.net/nishatayub](https://www.behance.net/nishatayub)  
+- 🎯 Dribbble: [dribbble.com/nishatayub](https://dribbble.com/nishatayub)  
+- 🧠 LeetCode: [leetcode.com/u/nishat90](https://leetcode.com/u/nishat90)  
+
+---
+
+### ⚡ Fun Fact
+
+If **Ctrl + Z** worked in real life, I’d be unstoppable.
+
+---
+
+> “Good design is obvious. Great design is transparent.” – Joe Sparano
