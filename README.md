@@ -31,14 +31,6 @@ I'm currently expanding my technical toolkit with **TypeScript**, **Rust**, **Ne
 
 ---
 
-### 📌 Projects
-
-- **Code Unity** – Live collaborative coding environment powered by WebSockets and AI ([Live](http://cuni.vercel.app) • [GitHub](https://github.com/kalviumcommunity/S65_Nishat_Capstone_CodeUnity))  
-- **ChattyBatty** – A modern, frontend-only chat UI with dynamic themes ([Live](https://chattybatty.vercel.app) • [GitHub](https://github.com/nishatayub/ChattyBatty))  
-- **Affirmo** – A mood-based compliment generator with email delivery ([Live](https://affirmo.vercel.app) • [GitHub](https://github.com/kalviumcommunity/S65_Compliment_Generator))
-
----
-
 ### 📚 Currently Exploring
 
 - 🧠 Neural networks & AI-assisted development  
@@ -53,7 +45,6 @@ I'm currently expanding my technical toolkit with **TypeScript**, **Rust**, **Ne
 - 🌐 Portfolio: [nishatayub.vercel.app](https://nishatayub.vercel.app)  
 - 💼 LinkedIn: [linkedin.com/in/nishatayub](https://www.linkedin.com/in/nishat-ayub/)  
 - 🖌️ Behance: [behance.net/nishatayub](https://www.behance.net/nishatayub)  
-- 🎯 Dribbble: [dribbble.com/nishatayub](https://dribbble.com/nishatayub)  
 - 🧠 LeetCode: [leetcode.com/u/nishat90](https://leetcode.com/u/nishat90)  
 
 ---
