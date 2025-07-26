@@ -30,18 +30,6 @@ const nishat = {
 
 <br>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nishatayub&show_icons=true&hide_border=true&title_color=F48FB1&icon_color=F8BBD9&text_color=8E24AA&bg_color=FFF8F9&border_radius=10" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatayub&layout=compact&hide_border=true&title_color=F48FB1&text_color=8E24AA&bg_color=FFF8F9&border_radius=10" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatayub&hide_border=true&background=FFF8F9&stroke=F48FB1&ring=F8BBD9&fire=F48FB1&currStreakNum=8E24AA&sideNums=8E24AA&currStreakLabel=F48FB1&sideLabels=F48FB1&dates=8E24AA&border_radius=10" />
-</div>
-
-<br>
 
 <div align="center">
   <h4 style="color: #F48FB1;">🌱 Currently Exploring</h4>
