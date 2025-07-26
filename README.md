@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Frontend-FFF0F5?style=flat-square&logo=react&logoColor=F48FB1&labelColor=FCE4EC" />
   <img src="https://img.shields.io/badge/Backend-FFF0F5?style=flat-square&logo=node.js&logoColor=F8BBD9&labelColor=F3E5F5" />
   <img src="https://img.shields.io/badge/AI-FFF0F5?style=flat-square&logo=openai&logoColor=E1BEE7&labelColor=F3E5F5" />
-  <img src="https://img.shields.io/badge/Lucknow-FFF0F5?style=flat-square&logo=google-maps&logoColor=F48FB1&labelColor=FCE4EC" />
 </div>
 
 ```javascript
