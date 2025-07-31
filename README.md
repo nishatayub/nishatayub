@@ -11,6 +11,5 @@ const nishat = {
     currentQuest: " Conquering TypeScript & AI/ML realms ",
     obsessions: [" MERN Architecture ", " Machine Intelligence ", " Digital Alchemy "],
     lifeMantra: " Crafting tomorrow's web, one pixel at a time ",
-    coffeeLevel: " Maximum ",
 };
 ```
