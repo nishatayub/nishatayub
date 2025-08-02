@@ -2,8 +2,6 @@
 
 </div>
 
-<br>
-
 ```javascript
 const nishat = {
     superpower: " Transforming caffeine into elegant code ",
